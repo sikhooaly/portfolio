@@ -1,0 +1,17 @@
+body {
+  scroll-behavior: smooth;
+}
+
+.hero {
+  background: linear-gradient(135deg, #007bff 0%, #6610f2 100%);
+  color: white;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+footer {
+  font-size: 0.9rem;
+}
